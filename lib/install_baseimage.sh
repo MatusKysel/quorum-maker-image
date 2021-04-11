@@ -13,11 +13,6 @@ apt-get install -y iputils-ping
 
 apt-get install bsdmainutils
 
-add-apt-repository ppa:openjdk-r/ppa -y
-apt-get update
-apt install openjdk-11-jdk -y
-
-apt-get -y install maven
 apt-get -y install net-tools
 apt-get -y install git
 
